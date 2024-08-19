@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "RN-CC-EventHub",
+    "name": "RNExpo EventHub",
     "slug": "RN-CC-EventHub",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,16 +9,25 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.cc.rnexpo_eventhub",
+      "buildNumber": "1.0.0",
+      "supportsTablet": false
     },
     "android": {
+      "package": "com.cc.rnexpo_eventhub",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCx4takOVXI9A_pTRNv_VG2tDEdHpWmfh4"
+        }
       }
     },
     "web": {
@@ -31,6 +40,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      }
     }
   }
 }

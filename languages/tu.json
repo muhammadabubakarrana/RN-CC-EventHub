@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun",
+        "title": "Bölgenizde neler olduğunu görün",
+        "getStarted": "BAŞLAMAK"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "telefon numaranızı girin",
+        "login": "Giriş yapmak",
+        "orLogin": "Veya kullanarak giriş yapın",
+        "pleaseConfirm": "Lütfen ülke kodunuzu onaylayın ve cep telefonu numaranızı girin",
+        "search": "Aramak",
+        "close": "Kapalı",
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun"
+    },
+    "registerScreen": {
+        "welcome": "Hoşgeldin, lütfen bizimle ilişkili hesabınızı oluşturun",
+        "enterUserName": "Kullanıcı adı girin",
+        "enterMobileNumber": "telefon numaranızı girin",
+        "enterEmailAddress": "E-posta adresinizi giriniz",
+        "register": "Kayıt olmak"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "OTP doğrulaması",
+        "pleaseEnter": "Lütfen girin OTP cep telefonu numaranızda size gönderildi",
+        "verify": "Doğrulamak",
+        "receivedCode": "Kod almadınız mı?",
+        "resend": "Yeniden gönder",
+        "pleaseWait": "Lütfen bekleyin"
+    },
+    "layout": {
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun",
+        "home": "Ev",
+        "categories": "Kategoriler",
+        "myTickets": "Biletlerim",
+        "profile": "Profil"
+    },
+    "homeScreen": {
+        "search": "Aramak",
+        "upcomingEvent": "Yaklaşan Etkinlik",
+        "viewAll": "Hepsini gör",
+        "eventNearYou": "Yakın Etkinlik",
+        "popularEvent": "Popüler Etkinlik",
+        "lets": "Etkinlikleri ve Partiyi Keşfedelim",
+        "added": "Favoriye eklendi",
+        "remove": "Favoriden kaldırıldı",
+        "event": "etkinlik"
+    },
+    "notificationScreen": {
+        "notification": "Bildiri",
+        "noNotificationYet": "Yeni bildirim yok",
+        "removed": "Bildirim reddedildi!."
+    },
+    "searchScreen": {
+        "search": "Aramak",
+        "searchYourEvent": "Etkinliğinizi arayın",
+        "recentSearch": "Son Arama",
+        "clearAll": "Hepsini temizle",
+        "event": "etkinlik"
+    },
+    "detailScreen": {
+        "added": "Favoriye eklendi",
+        "remove": "Favoriden kaldırıldı",
+        "eventDetail": "Etkinlik Ayrıntısı",
+        "readMore": "Devamını oku",
+        "readLess": "Az oku",
+        "buyTicket": "Bilet al",
+        "ticketSold": "bilet satıldı"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "Yakın Etkinlik",
+        "added": "Favoriye eklendi",
+        "remove": "Favoriden kaldırıldı"
+    },
+    "eventScreen": {
+        "added": "Favoriye eklendi",
+        "remove": "Favoriden kaldırıldı"
+    },
+    "categoriesScreen": {
+        "categories": "Kategoriler",
+        "event": "etkinlik"
+    },
+    "seatsScreen": {
+        "selectSeats": "Koltuklar Seçin",
+        "allEyes": "Tüm gözler bu şekilde",
+        "confirm": "Onaylamak",
+        "seat": "koltuk"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "Biletinizi Ayrıştırın",
+        "venue": "Yer",
+        "seat": "Koltuk",
+        "haveDiscountCode": "İndirim kodu var",
+        "enterCode": "Kodu girin",
+        "apply": "Uygula",
+        "goldTicket": "Altın bilet / 2 bilet @her biri 100,00 $",
+        "convenienceCharge": "Kolaylık Ücreti (%2)",
+        "discount": "İndirim",
+        "total": "Toplam",
+        "proceedPay": "Ödemeye devam"
+    },
+    "offerScreen": {
+        "offer": "Teklif",
+        "enterPromocode": "Promocode Enter'da",
+        "availableOffer": "Mevcut Teklif",
+        "validTill": "Kadar geçerli"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "Ödeme türünü seçin",
+        "continue": "Devam etmek"
+    },
+    "creditCardScreen": {
+        "cardName": "Kart adı",
+        "enterCardName": "Kart Adınızı Girin",
+        "cardNumber": "Kart numarası",
+        "enterCardNumber": "Kart numaranızı girin",
+        "expiryDate": "Son kullanma tarihi",
+        "continue": "Devam etmek"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "Bilet rezerve edildi",
+        "bookingId": "Rezervasyon kimliği",
+        "ticketType": "Bilet tipi",
+        "seatNo": "Koltuk hayır",
+        "totalTicket": "Toplam bilet",
+        "showCounter": "Karşı QR kodunu göster",
+        "backHome": "Eve geri dön"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "Yakın Etkinlik",
+        "added": "Favoriye eklendi",
+        "remove": "Favoriden kaldırıldı"
+    },
+    "myTicketsScreen": {
+        "myTickets": "Biletlerim",
+        "direction": "Yön",
+        "viewTicket": "Bileti Görüntüle",
+        "expired": "Günü geçmiş"
+    },
+    "directionScreen": {
+        "eventNearYou": "Yakın Etkinlik"
+    },
+    "ticketScreen": {
+        "myTicket": "Biletim",
+        "bookingId": "Rezervasyon kimliği",
+        "ticketType": "Bilet tipi",
+        "seatNo": "Koltuk hayır",
+        "totalTicket": "Toplam bilet",
+        "showQr": "Karşı QR kodunu göster",
+        "download": "İndirmek",
+        "share": "Paylaşmak"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Profili Düzenle",
+        "favorite": "Favori",
+        "language": "Dil",
+        "termsCondition": "Şartlar ve koşullar",
+        "privacyPolicy": "Gizlilik Politikası",
+        "helpSupport": "Yardım desteği",
+        "logout": "Çıkış Yap",
+        "areYouSure": "Oturum açmak istediğinden emin misiniz?",
+        "cancel": "İptal etmek"
+    },
+    "editProfileScreen": {
+        "editProfile": "Profili Düzenle",
+        "update": "Güncelleme",
+        "userName": "Kullanıcı adı",
+        "enterName": "Kullanıcı adı girin",
+        "emailAddress": "E -posta adresi",
+        "enterEmail": "Email adresini gir",
+        "mobileNumber": "Cep numarası",
+        "enterMobileNumber": "Cep telefonu numarasını girin",
+        "changeProfilePhoto": "Profil fotoğrafını değiştir",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "removeImage": "Resmi Kaldır"
+    },
+    "favoriteScreen": {
+        "favorite": "Favori",
+        "emptyFavoriteList": "Boş favori liste",
+        "remove": "Favoriden kaldırıldı"
+    },
+    "languageScreen": {
+        "language": "Dil",
+        "update": "Güncelleme"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "Şartlar ve koşullar"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Gizlilik Politikası"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Yardım ve Destek",
+        "callUs": "Bizi ara",
+        "mailUs": "Bize Posta Edin",
+        "forQuickContact": "Hızlı iletişim için",
+        "enterName": "Adınızı giriniz",
+        "enterEmailAddress": "E-posta adresinizi giriniz",
+        "writeMessageHere": "Buraya mesaj yaz",
+        "send": "Göndermek"
+    }
+}

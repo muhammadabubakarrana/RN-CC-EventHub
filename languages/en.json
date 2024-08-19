@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Tap back again to exit the App",
+        "title": "See what happening  in your area",
+        "getStarted": "GET STARTED"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "Enter your mobile number",
+        "login": "Login",
+        "orLogin": "Or Login using",
+        "pleaseConfirm": "Please confirm your country code and enter your mobile number",
+        "search": "Search",
+        "close": "Close",
+        "tapBack": "Tap back again to exit the App"
+    },
+    "registerScreen": {
+        "welcome": "Welcome, Please create your account to associated with us",
+        "enterUserName": "Enter user name",
+        "enterMobileNumber": "Enter your mobile number",
+        "enterEmailAddress": "Enter your email address",
+        "register": "Register"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "otp verification",
+        "pleaseEnter": "Please enter Otp has been sent to you on your mobile number",
+        "verify": "Verify",
+        "receivedCode": "Didn’t received code?",
+        "resend": "Resend",
+        "pleaseWait": "Please wait"
+    },
+    "layout": {
+        "tapBack": "Tap back again to exit the App",
+        "home": "Home",
+        "categories": "Categories",
+        "myTickets": "My tickets",
+        "profile": "Profile"
+    },
+    "homeScreen": {
+        "search": "Search",
+        "upcomingEvent": "Upcoming event",
+        "viewAll": "View all",
+        "eventNearYou": "Event near you",
+        "popularEvent": "Popular event",
+        "lets": "Let’s explore Events & Party",
+        "added": "Added to favorite",
+        "remove": "Removed from favorite",
+        "event": "event"
+    },
+    "notificationScreen": {
+        "notification": "Notification",
+        "noNotificationYet": "No new notification",
+        "removed": "Notification Dismissed!."
+    },
+    "searchScreen": {
+        "search": "Search",
+        "searchYourEvent": "Search your event",
+        "recentSearch": "Recent search",
+        "clearAll": "Clear all",
+        "event": "event"
+    },
+    "detailScreen": {
+        "added": "Added to favorite",
+        "remove": "Removed from favorite",
+        "eventDetail": "Event detail",
+        "readMore": "Read more",
+        "readLess": "Read less",
+        "buyTicket": "Buy ticket",
+        "ticketSold": "ticket sold"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "Event near you",
+        "added": "Added to favorite",
+        "remove": "Removed from favorite"
+    },
+    "eventScreen": {
+        "added": "Added to favorite",
+        "remove": "Removed from favorite"
+    },
+    "categoriesScreen": {
+        "categories": "Categories",
+        "event": "event"
+    },
+    "seatsScreen": {
+        "selectSeats": "Select seats",
+        "allEyes": "All eyes this way",
+        "confirm": "Confirm",
+        "seat": "seat"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "Book your ticket",
+        "venue": "Venue",
+        "seat": "Seat",
+        "haveDiscountCode": "Have discount code",
+        "enterCode": "Enter code",
+        "apply": "Apply",
+        "goldTicket": "Gold ticket / 2 ticket @$100.00 each",
+        "convenienceCharge": "Convenience charge(2%)",
+        "discount": "Discount",
+        "total": "Total",
+        "proceedPay": "Proceed to pay"
+    },
+    "offerScreen": {
+        "offer": "Offer",
+        "enterPromocode": "Enter promocode",
+        "availableOffer": "Available offer",
+        "validTill": "Valid till"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "Select payment method",
+        "continue": "Continue"
+    },
+    "creditCardScreen": {
+        "cardName": "Card name",
+        "enterCardName": "Enter your card name",
+        "cardNumber": "Card number",
+        "enterCardNumber": "Enter your card number",
+        "expiryDate": "Expiry date",
+        "continue": "Continue"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "Ticket booked",
+        "bookingId": "Booking ID",
+        "ticketType": "Ticket type",
+        "seatNo": "Seat no",
+        "totalTicket": "Total ticket",
+        "showCounter": "Show the QR code at counter",
+        "backHome": "Back to home"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "Event near you",
+        "added": "Added to favorite",
+        "remove": "Removed from favorite"
+    },
+    "myTicketsScreen": {
+        "myTickets": "My tickets",
+        "direction": "Direction",
+        "viewTicket": "View ticket",
+        "expired": "Expired"
+    },
+    "directionScreen": {
+        "eventNearYou": "Event near you"
+    },
+    "ticketScreen": {
+        "myTicket": "My ticket",
+        "bookingId": "Booking ID",
+        "ticketType": "Ticket type",
+        "seatNo": "Seat no",
+        "totalTicket": "Total ticket",
+        "showQr": "Show the QR code at counter",
+        "download": "Download",
+        "share": "Share"
+    },
+    "profileScreen": {
+        "profile": "Profile",
+        "editProfile": "Edit profile",
+        "favorite": "Favorite",
+        "language": "Language",
+        "termsCondition": "Terms & condition",
+        "privacyPolicy": "Privacy policy",
+        "helpSupport": "Help & support",
+        "logout": "Logout",
+        "areYouSure": "Are you sure you want to logout?",
+        "cancel": "Cancel"
+    },
+    "editProfileScreen": {
+        "editProfile": "Edit profile",
+        "update": "Update",
+        "userName": "User name",
+        "enterName": "Enter user name",
+        "emailAddress": "Email address",
+        "enterEmail": "Enter email address",
+        "mobileNumber": "Mobile number",
+        "enterMobileNumber": "Enter mobile number",
+        "changeProfilePhoto": "Change profile Photo",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "removeImage": "Remove image"
+    },
+    "favoriteScreen": {
+        "favorite": "Favorite",
+        "emptyFavoriteList": "Empty favorite list",
+        "remove": "Removed from favorite"
+    },
+    "languageScreen": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "Terms & condition"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Privacy policy"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Help and support",
+        "callUs": "Call us",
+        "mailUs": "Mail us",
+        "forQuickContact": "For quick contact",
+        "enterName": "Enter your name",
+        "enterEmailAddress": "Enter your email address",
+        "writeMessageHere": "Write message here",
+        "send": "Send"
+    }
+}

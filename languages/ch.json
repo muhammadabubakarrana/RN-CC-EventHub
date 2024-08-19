@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "再次点击以退出应用程序",
+        "title": "看看您所在地区发生了什么",
+        "getStarted": "开始"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "输入你的手机号码",
+        "login": "登录",
+        "orLogin": "或使用登录",
+        "pleaseConfirm": "请确认您的国家代码并输入您的手机号码",
+        "search": "搜索",
+        "close": "关闭",
+        "tapBack": "再次点击以退出应用程序"
+    },
+    "registerScreen": {
+        "welcome": "欢迎，请与我们相关的帐户创建您的帐户",
+        "enterUserName": "输入用户名",
+        "enterMobileNumber": "输入你的手机号码",
+        "enterEmailAddress": "输入你的电子邮箱地址",
+        "register": "登记"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "OTP验证",
+        "pleaseEnter": "请输入OTP已发送给您的手机号码",
+        "verify": "核实",
+        "receivedCode": "没有收到代码？",
+        "resend": "重发",
+        "pleaseWait": "请稍等"
+    },
+    "layout": {
+        "tapBack": "再次点击以退出应用程序",
+        "home": "家",
+        "categories": "类别",
+        "myTickets": "我的票",
+        "profile": "轮廓"
+    },
+    "homeScreen": {
+        "search": "搜索",
+        "upcomingEvent": "即将发生的事件",
+        "viewAll": "查看全部",
+        "eventNearYou": "您附近的活动",
+        "popularEvent": "流行活动",
+        "lets": "让我们探索活动和聚会",
+        "added": "添加到最爱",
+        "remove": "从最喜欢的地方删除",
+        "event": "事件"
+    },
+    "notificationScreen": {
+        "notification": "通知",
+        "noNotificationYet": "没有新的通知",
+        "removed": "通知被驳回！"
+    },
+    "searchScreen": {
+        "search": "搜索",
+        "searchYourEvent": "搜索您的活动",
+        "recentSearch": "最近的搜索",
+        "clearAll": "清除全部",
+        "event": "事件"
+    },
+    "detailScreen": {
+        "added": "添加到最爱",
+        "remove": "从最喜欢的地方删除",
+        "eventDetail": "事件细节",
+        "readMore": "阅读更多",
+        "readLess": "少阅读",
+        "buyTicket": "购买票",
+        "ticketSold": "售票"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "您附近的活动",
+        "added": "添加到最爱",
+        "remove": "从最喜欢的地方删除"
+    },
+    "eventScreen": {
+        "added": "添加到最爱",
+        "remove": "从最喜欢的地方删除"
+    },
+    "categoriesScreen": {
+        "categories": "类别",
+        "event": "事件"
+    },
+    "seatsScreen": {
+        "selectSeats": "选择座位",
+        "allEyes": "所有的眼睛都这样",
+        "confirm": "确认",
+        "seat": "座位"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "预订您的票",
+        "venue": "场地",
+        "seat": "座位",
+        "haveDiscountCode": "有折扣代码",
+        "enterCode": "输入代码",
+        "apply": "申请",
+        "goldTicket": "金票 / 2票 @$ 100.00",
+        "convenienceCharge": "便利费（2％）",
+        "discount": "折扣",
+        "total": "全部的",
+        "proceedPay": "继续付款"
+    },
+    "offerScreen": {
+        "offer": "提供",
+        "enterPromocode": "在Enter Promocode中",
+        "availableOffer": "可用优惠",
+        "validTill": "有效期至"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "选择付款方式",
+        "continue": "继续"
+    },
+    "creditCardScreen": {
+        "cardName": "卡名称",
+        "enterCardName": "输入您的卡名称",
+        "cardNumber": "卡号",
+        "enterCardNumber": "输入您的卡号",
+        "expiryDate": "到期日",
+        "continue": "继续"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "票预订",
+        "bookingId": "预订ID",
+        "ticketType": "票类型",
+        "seatNo": "座位",
+        "totalTicket": "总票",
+        "showCounter": "在计数器上显示QR码",
+        "backHome": "回到家"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "您附近的活动",
+        "added": "添加到最爱",
+        "remove": "从最喜欢的地方删除"
+    },
+    "myTicketsScreen": {
+        "myTickets": "我的票",
+        "direction": "方向",
+        "viewTicket": "查看票",
+        "expired": "已到期"
+    },
+    "directionScreen": {
+        "eventNearYou": "您附近的活动"
+    },
+    "ticketScreen": {
+        "myTicket": "我的票",
+        "bookingId": "预订ID",
+        "ticketType": "票类型",
+        "seatNo": "座位",
+        "totalTicket": "总票",
+        "showQr": "在计数器上显示QR码",
+        "download": "下载",
+        "share": "分享"
+    },
+    "profileScreen": {
+        "profile": "轮廓",
+        "editProfile": "编辑个人资料",
+        "favorite": "最喜欢的",
+        "language": "语言",
+        "termsCondition": "条款与协议",
+        "privacyPolicy": "隐私政策",
+        "helpSupport": "帮助支持",
+        "logout": "登出",
+        "areYouSure": "您确定要注销吗？",
+        "cancel": "取消"
+    },
+    "editProfileScreen": {
+        "editProfile": "编辑个人资料",
+        "update": "更新",
+        "userName": "用户名",
+        "enterName": "输入用户名",
+        "emailAddress": "电子邮件地址",
+        "enterEmail": "请输入电邮地址",
+        "mobileNumber": "手机号码",
+        "enterMobileNumber": "输入手机号码",
+        "changeProfilePhoto": "更改个人资料照片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "removeImage": "删除图像"
+    },
+    "favoriteScreen": {
+        "favorite": "最喜欢的",
+        "emptyFavoriteList": "空喜欢的列表",
+        "remove": "从最喜欢的地方删除"
+    },
+    "languageScreen": {
+        "language": "语言",
+        "update": "更新"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "条款与协议"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "隐私政策"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "帮助和支持",
+        "callUs": "打电话给我们",
+        "mailUs": "邮寄我们",
+        "forQuickContact": "快速联系",
+        "enterName": "输入你的名字",
+        "enterEmailAddress": "输入你的电子邮箱地址",
+        "writeMessageHere": "在这里写消息",
+        "send": "发送"
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi",
+        "title": "Lihat apa yang terjadi di daerah Anda",
+        "getStarted": "MEMULAI"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "Masukkan nomor ponsel Anda",
+        "login": "Gabung",
+        "orLogin": "Atau login menggunakan",
+        "pleaseConfirm": "Harap konfirmasi kode negara Anda dan masukkan nomor ponsel Anda",
+        "search": "Mencari",
+        "close": "Menutup",
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi"
+    },
+    "registerScreen": {
+        "welcome": "Selamat datang, silakan buat akun Anda untuk terkait dengan kami",
+        "enterUserName": "Masukkan nama pengguna",
+        "enterMobileNumber": "Masukkan nomor ponsel Anda",
+        "enterEmailAddress": "Masukkan alamat email Anda",
+        "register": "Daftar"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "Verifikasi OTP",
+        "pleaseEnter": "Harap masukkan OTP telah dikirimkan kepada Anda di nomor ponsel Anda",
+        "verify": "Memeriksa",
+        "receivedCode": "Tidak menerima kode?",
+        "resend": "Ulang",
+        "pleaseWait": "Harap tunggu"
+    },
+    "layout": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi",
+        "home": "Rumah",
+        "categories": "Kategori",
+        "myTickets": "Tiket saya",
+        "profile": "Profil"
+    },
+    "homeScreen": {
+        "search": "Mencari",
+        "upcomingEvent": "Acara yang akan datang",
+        "viewAll": "Lihat semua",
+        "eventNearYou": "Acara di dekat Anda",
+        "popularEvent": "Acara populer",
+        "lets": "Mari Jelajahi Acara & Pesta",
+        "added": "Ditambahkan ke favorit",
+        "remove": "Dihapus dari favorit",
+        "event": "peristiwa"
+    },
+    "notificationScreen": {
+        "notification": "Pemberitahuan",
+        "noNotificationYet": "Tidak ada pemberitahuan baru",
+        "removed": "Pemberitahuan diberhentikan!."
+    },
+    "searchScreen": {
+        "search": "Mencari",
+        "searchYourEvent": "Cari Acara Anda",
+        "recentSearch": "Pencarian Terbaru",
+        "clearAll": "Bersihkan semua",
+        "event": "peristiwa"
+    },
+    "detailScreen": {
+        "added": "Ditambahkan ke favorit",
+        "remove": "Dihapus dari favorit",
+        "eventDetail": "Detail Acara",
+        "readMore": "Baca selengkapnya",
+        "readLess": "Baca lebih sedikit",
+        "buyTicket": "Beli tiket",
+        "ticketSold": "Tiket dijual"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "Acara di dekat Anda",
+        "added": "Ditambahkan ke favorit",
+        "remove": "Dihapus dari favorit"
+    },
+    "eventScreen": {
+        "added": "Ditambahkan ke favorit",
+        "remove": "Dihapus dari favorit"
+    },
+    "categoriesScreen": {
+        "categories": "Kategori",
+        "event": "peristiwa"
+    },
+    "seatsScreen": {
+        "selectSeats": "Pilih kursi",
+        "allEyes": "Semua mata seperti ini",
+        "confirm": "Mengonfirmasi",
+        "seat": "kursi"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "Pesan tiket Anda",
+        "venue": "Lokasi",
+        "seat": "Kursi",
+        "haveDiscountCode": "Memiliki kode diskon",
+        "enterCode": "Memasukkan kode",
+        "apply": "Menerapkan",
+        "goldTicket": "Tiket Emas / 2 Tiket @$ 100,00 Masing -masing",
+        "convenienceCharge": "Biaya kenyamanan (2%)",
+        "discount": "Diskon",
+        "total": "total",
+        "proceedPay": "Lanjutkan untuk membayar"
+    },
+    "offerScreen": {
+        "offer": "Menawarkan",
+        "enterPromocode": "Di Promocode Enter",
+        "availableOffer": "Penawaran yang tersedia",
+        "validTill": "Berlaku sampai"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "Pilih metode pembayaran",
+        "continue": "Melanjutkan"
+    },
+    "creditCardScreen": {
+        "cardName": "Kartu nama",
+        "enterCardName": "Masukkan Nama Kartu Anda",
+        "cardNumber": "Nomor kartu",
+        "enterCardNumber": "Masukkan Nomor Kartu Anda",
+        "expiryDate": "Tanggal kadaluarsa",
+        "continue": "Melanjutkan"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "Tiket dipesan",
+        "bookingId": "ID Pemesanan",
+        "ticketType": "Jenis tiket",
+        "seatNo": "Kursi no",
+        "totalTicket": "Total tiket",
+        "showCounter": "Tunjukkan kode QR di Counter",
+        "backHome": "Kembali ke rumah"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "Acara di dekat Anda",
+        "added": "Ditambahkan ke favorit",
+        "remove": "Dihapus dari favorit"
+    },
+    "myTicketsScreen": {
+        "myTickets": "Tiket saya",
+        "direction": "Arah",
+        "viewTicket": "Tiket Lihat",
+        "expired": "Kedaluwarsa"
+    },
+    "directionScreen": {
+        "eventNearYou": "Acara di dekat Anda"
+    },
+    "ticketScreen": {
+        "myTicket": "Tiket saya",
+        "bookingId": "ID Pemesanan",
+        "ticketType": "Jenis tiket",
+        "seatNo": "Kursi no",
+        "totalTicket": "Total tiket",
+        "showQr": "Tunjukkan kode QR di Counter",
+        "download": "Unduh",
+        "share": "Membagikan"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Sunting profil",
+        "favorite": "Favorit",
+        "language": "Bahasa",
+        "termsCondition": "Syarat & Kondisi",
+        "privacyPolicy": "Kebijakan pribadi",
+        "helpSupport": "Bantuan & Dukungan",
+        "logout": "Keluar",
+        "areYouSure": "Apakah Anda yakin ingin keluar?",
+        "cancel": "Membatalkan"
+    },
+    "editProfileScreen": {
+        "editProfile": "Sunting profil",
+        "update": "Memperbarui",
+        "userName": "Nama belakang",
+        "enterName": "Masukkan nama pengguna",
+        "emailAddress": "Alamat email",
+        "enterEmail": "Masukkan alamat email",
+        "mobileNumber": "Nomor handphone",
+        "enterMobileNumber": "Masukkan nomor ponsel",
+        "changeProfilePhoto": "Ubah foto profil",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "removeImage": "Hapus gambar"
+    },
+    "favoriteScreen": {
+        "favorite": "Favorit",
+        "emptyFavoriteList": "Daftar favorit kosong",
+        "remove": "Dihapus dari favorit"
+    },
+    "languageScreen": {
+        "language": "Bahasa",
+        "update": "Memperbarui"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "Syarat & Kondisi"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Kebijakan pribadi"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Bantuan dan dukungan",
+        "callUs": "Hubungi kami",
+        "mailUs": "Kirimkan kami",
+        "forQuickContact": "Untuk kontak cepat",
+        "enterName": "Masukkan nama Anda",
+        "enterEmailAddress": "Masukkan alamat email Anda",
+        "writeMessageHere": "Tulis pesan di sini",
+        "send": "Mengirim"
+    }
+}

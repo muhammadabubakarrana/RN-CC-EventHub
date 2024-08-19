@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें",
+        "title": "देखें कि आपके क्षेत्र में क्या हो रहा है",
+        "getStarted": "शुरू हो जाओ"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "अपना मोबाइल संख्या दर्ज करे",
+        "login": "लॉग इन करें",
+        "orLogin": "या लॉगिन का उपयोग कर लॉगिन करें",
+        "pleaseConfirm": "कृपया अपने देश कोड की पुष्टि करें और अपना मोबाइल नंबर दर्ज करें",
+        "search": "खोज",
+        "close": "बंद करना",
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें"
+    },
+    "registerScreen": {
+        "welcome": "आपका स्वागत है, कृपया अपना खाता हमारे साथ संबद्ध करें",
+        "enterUserName": "उपयोगकर्ता नाम दर्ज करें",
+        "enterMobileNumber": "अपना मोबाइल संख्या दर्ज करे",
+        "enterEmailAddress": "अपना ईमेल पता दर्ज करें",
+        "register": "पंजीकरण करवाना"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "ओटीपी सत्यापन",
+        "pleaseEnter": "कृपया दर्ज करें OTP आपको अपने मोबाइल नंबर पर भेजा गया है",
+        "verify": "सत्यापित करें",
+        "receivedCode": "क्या कोड प्राप्त नहीं हुआ?",
+        "resend": "पुन: भेजें",
+        "pleaseWait": "कृपया प्रतीक्षा करें"
+    },
+    "layout": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें",
+        "home": "घर",
+        "categories": "श्रेणियाँ",
+        "myTickets": "मेरे टिकट",
+        "profile": "प्रोफ़ाइल"
+    },
+    "homeScreen": {
+        "search": "खोज",
+        "upcomingEvent": "आगामी घटना",
+        "viewAll": "सभी को देखें",
+        "eventNearYou": "आप के पास घटना",
+        "popularEvent": "लोकप्रिय घटना",
+        "lets": "आइए घटनाओं और पार्टी का पता लगाएं",
+        "added": "पसंदीदा में जोड़ा गया",
+        "remove": "पसंदीदा से हटा दिया गया",
+        "event": "आयोजन"
+    },
+    "notificationScreen": {
+        "notification": "अधिसूचना",
+        "noNotificationYet": "कोई नई अधिसूचना नहीं",
+        "removed": "अधिसूचना खारिज कर दी !।"
+    },
+    "searchScreen": {
+        "search": "खोज",
+        "searchYourEvent": "अपनी घटना को खोजें",
+        "recentSearch": "हाल ही में खोज",
+        "clearAll": "सभी साफ करें",
+        "event": "आयोजन"
+    },
+    "detailScreen": {
+        "added": "पसंदीदा में जोड़ा गया",
+        "remove": "पसंदीदा से हटा दिया गया",
+        "eventDetail": "घटना विवरण",
+        "readMore": "और पढ़ें",
+        "readLess": "कम पढ़ें",
+        "buyTicket": "टिकट खरीदें",
+        "ticketSold": "टिकट बेचा"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "आप के पास घटना",
+        "added": "पसंदीदा में जोड़ा गया",
+        "remove": "पसंदीदा से हटा दिया गया"
+    },
+    "eventScreen": {
+        "added": "पसंदीदा में जोड़ा गया",
+        "remove": "पसंदीदा से हटा दिया गया"
+    },
+    "categoriesScreen": {
+        "categories": "श्रेणियाँ",
+        "event": "आयोजन"
+    },
+    "seatsScreen": {
+        "selectSeats": "सीटों का चयन करें",
+        "allEyes": "सभी इस तरह से आँखें",
+        "confirm": "पुष्टि करना",
+        "seat": "सीट"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "अपना टिकट बुक करें",
+        "venue": "कार्यक्रम का स्थान",
+        "seat": "सीट",
+        "haveDiscountCode": "डिस्काउंट कोड है",
+        "enterCode": "कोड दर्ज करें",
+        "apply": "आवेदन करना",
+        "goldTicket": "गोल्ड टिकट / 2 टिकट @$ 100.00 प्रत्येक",
+        "convenienceCharge": "सुविधा प्रभार (2%)",
+        "discount": "छूट",
+        "total": "कुल",
+        "proceedPay": "चुकाने के लिए कार्रवाई शुरू करो"
+    },
+    "offerScreen": {
+        "offer": "प्रस्ताव",
+        "enterPromocode": "एंटर प्रोमोकोड में",
+        "availableOffer": "उपलब्ध प्रस्ताव",
+        "validTill": "तक मान्य"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "भुगतान का तरीका चुनें",
+        "continue": "जारी रखना"
+    },
+    "creditCardScreen": {
+        "cardName": "कार्ड का नाम",
+        "enterCardName": "अपना कार्ड नाम दर्ज करें",
+        "cardNumber": "कार्ड संख्या",
+        "enterCardNumber": "अपना कार्ड नंबर दर्ज करें",
+        "expiryDate": "समाप्ति तिथि",
+        "continue": "जारी रखना"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "टिकट बुक",
+        "bookingId": "बुकिंग आईडी",
+        "ticketType": "टिकिट का प्रकार",
+        "seatNo": "सीट नहीं",
+        "totalTicket": "कुल टिकट",
+        "showCounter": "काउंटर पर क्यूआर कोड दिखाएं",
+        "backHome": "घर वापिस जा रहा हूँ"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "आप के पास घटना",
+        "added": "पसंदीदा में जोड़ा गया",
+        "remove": "पसंदीदा से हटा दिया गया"
+    },
+    "myTicketsScreen": {
+        "myTickets": "मेरे टिकट",
+        "direction": "दिशा",
+        "viewTicket": "टिकट देखें",
+        "expired": "खत्म हो चुका"
+    },
+    "directionScreen": {
+        "eventNearYou": "आप के पास घटना"
+    },
+    "ticketScreen": {
+        "myTicket": "मेरा टिकट",
+        "bookingId": "बुकिंग आईडी",
+        "ticketType": "टिकिट का प्रकार",
+        "seatNo": "सीट नहीं",
+        "totalTicket": "कुल टिकट",
+        "showQr": "काउंटर पर क्यूआर कोड दिखाएं",
+        "download": "डाउनलोड करना",
+        "share": "शेयर करना"
+    },
+    "profileScreen": {
+        "profile": "प्रोफ़ाइल",
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "favorite": "पसंदीदा",
+        "language": "भाषा",
+        "termsCondition": "नियम व शर्त",
+        "privacyPolicy": "गोपनीयता नीति",
+        "helpSupport": "मदद समर्थन",
+        "logout": "लॉग आउट",
+        "areYouSure": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना"
+    },
+    "editProfileScreen": {
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "update": "अद्यतन",
+        "userName": "उपयोगकर्ता नाम",
+        "enterName": "उपयोगकर्ता नाम दर्ज करें",
+        "emailAddress": "मेल पता",
+        "enterEmail": "ईमेल पता दर्ज करें",
+        "mobileNumber": "मोबाइल नंबर",
+        "enterMobileNumber": "मोबाइल नंबर दर्ज करें",
+        "changeProfilePhoto": "प्रोफ़ाइल फोटो बदलें",
+        "camera": "कैमरा",
+        "gallery": "गैलरी",
+        "removeImage": "छवि निकालें"
+    },
+    "favoriteScreen": {
+        "favorite": "पसंदीदा",
+        "emptyFavoriteList": "खाली पसंदीदा सूची",
+        "remove": "पसंदीदा से हटा दिया गया"
+    },
+    "languageScreen": {
+        "language": "भाषा",
+        "update": "अद्यतन"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "नियम व शर्त"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "गोपनीयता नीति"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "सहायता और समर्थन",
+        "callUs": "हमें बुलाओ",
+        "mailUs": "हमें मेल करें",
+        "forQuickContact": "त्वरित संपर्क के लिए",
+        "enterName": "अपना नाम दर्ज करें",
+        "enterEmailAddress": "अपना ईमेल पता दर्ज करें",
+        "writeMessageHere": "यहाँ संदेश लिखें",
+        "send": "भेजना"
+    }
+}

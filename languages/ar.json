@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق",
+        "title": "انظر ماذا يحدث في منطقتك",
+        "getStarted": "البدء"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "أدخل رقم هاتفك المحمول",
+        "login": "تسجيل الدخول",
+        "orLogin": "أو تسجيل الدخول باستخدام",
+        "pleaseConfirm": "يرجى تأكيد رمز بلدك وإدخال رقم هاتفك المحمول",
+        "search": "يبحث",
+        "close": "يغلق",
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق"
+    },
+    "registerScreen": {
+        "welcome": "مرحبًا ، يرجى إنشاء حسابك المرتبط بنا",
+        "enterUserName": "ادخل اسم المستخدم",
+        "enterMobileNumber": "أدخل رقم هاتفك المحمول",
+        "enterEmailAddress": "أدخل عنوان بريدك الالكتروني",
+        "register": "يسجل"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "التحقق من OTP",
+        "pleaseEnter": "الرجاء إدخال OTP قد تم إرسالك إليك على رقم هاتفك المحمول",
+        "verify": "يؤكد",
+        "receivedCode": "لم يتلق رمز؟",
+        "resend": "إعادة إرسال",
+        "pleaseWait": "انتظر من فضلك"
+    },
+    "layout": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق",
+        "home": "بيت",
+        "categories": "فئات",
+        "myTickets": "تذاكري",
+        "profile": "حساب تعريفي"
+    },
+    "homeScreen": {
+        "search": "يبحث",
+        "upcomingEvent": "الحدث القادم",
+        "viewAll": "عرض الكل",
+        "eventNearYou": "الحدث بالقرب منك",
+        "popularEvent": "حدث شعبي",
+        "lets": "دعونا نستكشف الأحداث والحفلات",
+        "added": "أضاف إلى المفضل",
+        "remove": "تمت إزالته من المفضل",
+        "event": "حدث"
+    },
+    "notificationScreen": {
+        "notification": "إشعار",
+        "noNotificationYet": "لا يوجد إشعار جديد",
+        "removed": "تم رفض الإخطار!."
+    },
+    "searchScreen": {
+        "search": "يبحث",
+        "searchYourEvent": "ابحث في الحدث الخاص بك",
+        "recentSearch": "البحث الأخير",
+        "clearAll": "امسح الكل",
+        "event": "حدث"
+    },
+    "detailScreen": {
+        "added": "أضاف إلى المفضل",
+        "remove": "تمت إزالته من المفضل",
+        "eventDetail": "تفاصيل الحدث",
+        "readMore": "اقرأ أكثر",
+        "readLess": "أقرأ أقل",
+        "buyTicket": "اشتري تذكرة",
+        "ticketSold": "بيعت التذاكر"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "الحدث بالقرب منك",
+        "added": "أضاف إلى المفضل",
+        "remove": "تمت إزالته من المفضل"
+    },
+    "eventScreen": {
+        "added": "أضاف إلى المفضل",
+        "remove": "تمت إزالته من المفضل"
+    },
+    "categoriesScreen": {
+        "categories": "فئات",
+        "event": "حدث"
+    },
+    "seatsScreen": {
+        "selectSeats": "حدد المقاعد",
+        "allEyes": "كل العيون بهذه الطريقة",
+        "confirm": "يتأكد",
+        "seat": "مقعد"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "احجز تذكرتك",
+        "venue": "مكان",
+        "seat": "مقعد",
+        "haveDiscountCode": "لديك رمز الخصم",
+        "enterCode": "ادخل الرمز",
+        "apply": "يتقدم",
+        "goldTicket": "تذكرة ذهبية / تذكرة 2 @$ 100.00 لكل منهما",
+        "convenienceCharge": "رسوم الراحة (2 ٪)",
+        "discount": "تخفيض",
+        "total": "المجموع",
+        "proceedPay": "تابع الدفع"
+    },
+    "offerScreen": {
+        "offer": "يعرض",
+        "enterPromocode": "في Promocode Enter",
+        "availableOffer": "العرض المتاح",
+        "validTill": "صالح حتى"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "اختار طريقة الدفع",
+        "continue": "يكمل"
+    },
+    "creditCardScreen": {
+        "cardName": "اسم البطاقة",
+        "enterCardName": "أدخل اسم بطاقتك",
+        "cardNumber": "رقم البطاقة",
+        "enterCardNumber": "أدخل رقم بطاقتك",
+        "expiryDate": "تاريخ الانتهاء",
+        "continue": "يكمل"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "تذكرة محجوزة",
+        "bookingId": "معرف الحجز",
+        "ticketType": "نوع التذكرة",
+        "seatNo": "رقم المقعد",
+        "totalTicket": "إجمالي التذكرة",
+        "showCounter": "إظهار رمز الاستجابة السريعة في العداد",
+        "backHome": "العودة إلى المنزل"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "الحدث بالقرب منك",
+        "added": "أضاف إلى المفضل",
+        "remove": "تمت إزالته من المفضل"
+    },
+    "myTicketsScreen": {
+        "myTickets": "تذاكري",
+        "direction": "اتجاه",
+        "viewTicket": "عرض التذكرة",
+        "expired": "منتهي الصلاحية"
+    },
+    "directionScreen": {
+        "eventNearYou": "الحدث بالقرب منك"
+    },
+    "ticketScreen": {
+        "myTicket": "تذكرتي",
+        "bookingId": "معرف الحجز",
+        "ticketType": "نوع التذكرة",
+        "seatNo": "رقم المقعد",
+        "totalTicket": "إجمالي التذكرة",
+        "showQr": "إظهار رمز الاستجابة السريعة في العداد",
+        "download": "تحميل",
+        "share": "يشارك"
+    },
+    "profileScreen": {
+        "profile": "حساب تعريفي",
+        "editProfile": "تعديل الملف الشخصي",
+        "favorite": "مفضل",
+        "language": "لغة",
+        "termsCondition": "الشروط والشرط",
+        "privacyPolicy": "سياسة الخصوصية",
+        "helpSupport": "ساعد لدعم",
+        "logout": "تسجيل خروج",
+        "areYouSure": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "cancel": "يلغي"
+    },
+    "editProfileScreen": {
+        "editProfile": "تعديل الملف الشخصي",
+        "update": "تحديث",
+        "userName": "اسم المستخدم",
+        "enterName": "ادخل اسم المستخدم",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "enterEmail": "أدخل عنوان البريد الالكتروني",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "enterMobileNumber": "أدخل رقم الهاتف المحمول",
+        "changeProfilePhoto": "تغيير صورة الملف الشخصي",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "removeImage": "إزالة الصورة"
+    },
+    "favoriteScreen": {
+        "favorite": "مفضل",
+        "emptyFavoriteList": "القائمة المفضلة الفارغة",
+        "remove": "تمت إزالته من المفضل"
+    },
+    "languageScreen": {
+        "language": "لغة",
+        "update": "تحديث"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "الشروط والشرط"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "سياسة الخصوصية"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "مساعدة و دعم",
+        "callUs": "اتصل بنا",
+        "mailUs": "أرسلنا بالبريد",
+        "forQuickContact": "للاتصال السريع",
+        "enterName": "أدخل أسمك",
+        "enterEmailAddress": "أدخل عنوان بريدك الالكتروني",
+        "writeMessageHere": "اكتب رسالة هنا",
+        "send": "يرسل"
+    }
+}

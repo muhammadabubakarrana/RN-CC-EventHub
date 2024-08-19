@@ -1,0 +1,204 @@
+{
+    "onboardingScreen": {
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application",
+        "title": "Voir ce qui se passe dans votre région",
+        "getStarted": "COMMENCER"
+    },
+    "loginScreen": {
+        "enterMobileNumber": "Entrez votre numéro de mobile",
+        "login": "Se connecter",
+        "orLogin": "Ou connexion en utilisant",
+        "pleaseConfirm": "Veuillez confirmer votre code de pays et saisir votre numéro de mobile",
+        "search": "Recherche",
+        "close": "Fermer",
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application"
+    },
+    "registerScreen": {
+        "welcome": "Bienvenue, veuillez créer votre compte pour nous associer",
+        "enterUserName": "Saisissez votre nom d'utilisateur",
+        "enterMobileNumber": "Entrez votre numéro de mobile",
+        "enterEmailAddress": "Entrez votre adresse email",
+        "register": "Registre"
+    },
+    "otpVerificationScreen": {
+        "otpVerification": "Vérification OTP",
+        "pleaseEnter": "Veuillez entrer OTP vous a été envoyé sur votre numéro de mobile",
+        "verify": "Vérifier",
+        "receivedCode": "Vous n'avez pas reçu de code?",
+        "resend": "Revivre",
+        "pleaseWait": "S'il vous plaît, attendez"
+    },
+    "layout": {
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application",
+        "home": "Maison",
+        "categories": "Catégories",
+        "myTickets": "Mes billets",
+        "profile": "Profil"
+    },
+    "homeScreen": {
+        "search": "Recherche",
+        "upcomingEvent": "Événement à venir",
+        "viewAll": "Voir tout",
+        "eventNearYou": "Événement près de chez vous",
+        "popularEvent": "Événement populaire",
+        "lets": "Explorons les événements et la fête",
+        "added": "Ajouté au favori",
+        "remove": "Supprimé du favori",
+        "event": "événement"
+    },
+    "notificationScreen": {
+        "notification": "notification",
+        "noNotificationYet": "Aucune nouvelle notification",
+        "removed": "Notification rejetée!."
+    },
+    "searchScreen": {
+        "search": "Recherche",
+        "searchYourEvent": "Recherchez votre événement",
+        "recentSearch": "Recherche récente",
+        "clearAll": "Tout effacer",
+        "event": "événement"
+    },
+    "detailScreen": {
+        "added": "Ajouté au favori",
+        "remove": "Supprimé du favori",
+        "eventDetail": "Détail de l'événement",
+        "readMore": "En savoir plus",
+        "readLess": "Lire moins",
+        "buyTicket": "Acheter un billet",
+        "ticketSold": "billet vendu"
+    },
+    "eventNearYouScreen": {
+        "eventNearYou": "Événement près de chez vous",
+        "added": "Ajouté au favori",
+        "remove": "Supprimé du favori"
+    },
+    "eventScreen": {
+        "added": "Ajouté au favori",
+        "remove": "Supprimé du favori"
+    },
+    "categoriesScreen": {
+        "categories": "Catégories",
+        "event": "événement"
+    },
+    "seatsScreen": {
+        "selectSeats": "Sélectionner les sièges",
+        "allEyes": "Tous les yeux de cette façon",
+        "confirm": "Confirmer",
+        "seat": "siège"
+    },
+    "bookTicketScreen": {
+        "bookTicket": "Réservez votre billet",
+        "venue": "Lieu",
+        "seat": "Siège",
+        "haveDiscountCode": "Avoir un code de réduction",
+        "enterCode": "Entrez le code",
+        "apply": "Appliquer",
+        "goldTicket": "Billet d'or / billet 2 @ 100,00 $ chacun",
+        "convenienceCharge": "Frais de commodité (2%)",
+        "discount": "Rabais",
+        "total": "Totale",
+        "proceedPay": "Procéder au paiement"
+    },
+    "offerScreen": {
+        "offer": "Offre",
+        "enterPromocode": "Dans le promocode Entrée",
+        "availableOffer": "Offre disponible",
+        "validTill": "Valable jusqu'au"
+    },
+    "paymentMethodScreen": {
+        "selectPaymentMethod": "Sélectionnez le mode de paiement",
+        "continue": "Continuer"
+    },
+    "creditCardScreen": {
+        "cardName": "Nom de la carte",
+        "enterCardName": "Entrez le nom de votre carte",
+        "cardNumber": "Numéro de carte",
+        "enterCardNumber": "Entrez votre numéro de carte",
+        "expiryDate": "Date d'expiration",
+        "continue": "Continuer"
+    },
+    "ticketBookedScreen": {
+        "ticketBooked": "Billet réservé",
+        "bookingId": "ID de réservation",
+        "ticketType": "Type de billet",
+        "seatNo": "Siège no",
+        "totalTicket": "Billet total",
+        "showCounter": "Afficher le code QR à comptoir",
+        "backHome": "De retour à la maison"
+    },
+    "mapViewScreen": {
+        "eventNearYou": "Événement près de chez vous",
+        "added": "Ajouté au favori",
+        "remove": "Supprimé du favori"
+    },
+    "myTicketsScreen": {
+        "myTickets": "Mes billets",
+        "direction": "direction",
+        "viewTicket": "Afficher le ticket",
+        "expired": "Expiré"
+    },
+    "directionScreen": {
+        "eventNearYou": "Événement près de chez vous"
+    },
+    "ticketScreen": {
+        "myTicket": "Mon billet",
+        "bookingId": "ID de réservation",
+        "ticketType": "Type de billet",
+        "seatNo": "Siège no",
+        "totalTicket": "Billet total",
+        "showQr": "Afficher le code QR à comptoir",
+        "download": "Télécharger",
+        "share": "Partager"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Editer le profil",
+        "favorite": "Préférée",
+        "language": "Langue",
+        "termsCondition": "Termes et conditions",
+        "privacyPolicy": "Politique de confidentialité",
+        "helpSupport": "Support d'aide",
+        "logout": "Se déconnecter",
+        "areYouSure": "Êtes-vous sûr de vouloir vous déconnecter?",
+        "cancel": "Annuler"
+    },
+    "editProfileScreen": {
+        "editProfile": "Editer le profil",
+        "update": "Mise à jour",
+        "userName": "Nom d'utilisateur",
+        "enterName": "Saisissez votre nom d'utilisateur",
+        "emailAddress": "Adresse e-mail",
+        "enterEmail": "Entrer l'adresse e-mail",
+        "mobileNumber": "Numéro de portable",
+        "enterMobileNumber": "Entrez le numéro de mobile",
+        "changeProfilePhoto": "Changer la photo du profil",
+        "camera": "Caméra",
+        "gallery": "Galerie",
+        "removeImage": "Supprimer l'image"
+    },
+    "favoriteScreen": {
+        "favorite": "Préférée",
+        "emptyFavoriteList": "Liste préférée vide",
+        "remove": "Supprimé du favori"
+    },
+    "languageScreen": {
+        "language": "Langue",
+        "update": "Mise à jour"
+    },
+    "termsAndConditionScreen": {
+        "termsCondition": "Termes et conditions"
+    },
+    "privacyPolicyScreen": {
+        "privacyPolicy": "Politique de confidentialité"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Aide et soutien",
+        "callUs": "Nous appeler",
+        "mailUs": "Nous envoyer un courrier",
+        "forQuickContact": "Pour un contact rapide",
+        "enterName": "Entrez votre nom",
+        "enterEmailAddress": "Entrez votre adresse email",
+        "writeMessageHere": "Écrivez un message ici",
+        "send": "Envoyer"
+    }
+}
